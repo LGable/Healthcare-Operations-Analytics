@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+*.pbix.tmp
+output/
+private/
+*.xlsx~
