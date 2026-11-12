@@ -46,4 +46,4 @@ scripts/    Data-generation and analysis scripts
 
 ## Provenance
 
-This repository combines portfolio demonstrations with historical professional context. Historical outcomes require owner verification; synthetic results do not establish effectiveness for a real organization.
+This repository combines portfolio demonstrations with historical professional context. Historical outcomes are distinct from synthetic results, which demonstrate analytical methods and do not establish effectiveness for a real organization.

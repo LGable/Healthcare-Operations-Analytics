@@ -20,7 +20,7 @@ At 15 days of stay, estimated modeled monthly gross facility patient-stay revenu
 | 15 days | $165,407.40 | $1,984,888.80 |
 | 20 days | $220,543.20 | $2,646,518.40 |
 
-**Not attribution:** This is estimated *facility patient-stay revenue*, not rehab-department collected reimbursement, realized profit, direct budget authority, or owner-attributable financial creation. Do not multiply it by 65%.
+**Not attribution:** This is estimated *facility patient-stay revenue*, not rehab-department collected reimbursement, realized profit, direct budget authority, or financial value attributable to me. Do not multiply it by 65%.
 
 ## Further evidence needed
 
