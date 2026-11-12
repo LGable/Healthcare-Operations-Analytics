@@ -4,7 +4,7 @@
 
 ## Context and intervention
 
-An 11-person interdisciplinary rehabilitation department needed more reliable schedules, referral coordination, and capacity tracking. Career records report 47% higher daily treatment capacity and 65% higher *gross adjusted rehabilitation revenue* during the leadership period; the percentages are self-reported and not audited here.
+An 11-person interdisciplinary rehabilitation department needed more reliable schedules, referral coordination, and capacity tracking. Career records describe improvements in daily treatment capacity and *gross adjusted rehabilitation revenue* during the leadership period; numerical percentages are not published here because the available materials do not document the required baseline and measurement period.
 
 ## Separate scenario: 2023 facility patient-stay revenue
 
