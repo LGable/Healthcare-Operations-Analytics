@@ -6,7 +6,7 @@
 
 A behavioral-health organization faces claims delays, periodic payroll-timing difficulties, and administrative burden. Leadership needs clarity on overdue receivables, staffing commitments and repeatable reporting.
 
-## Owner-reported inputs to validate
+## Historical inputs and illustrative assumptions
 
 | Input | Estimate | Treatment |
 |---|---:|---|
